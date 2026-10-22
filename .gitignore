@@ -1,0 +1,12 @@
+/node_modules/
+/.next/
+/.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+.DS_Store
+/.agents/
+/.codex/
+/.aws/
+/Currículo do Sistema de Currículos Lattes (Erick Batista dos Santos).pdf
